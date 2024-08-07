@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CryptoWatcher</string>
+
+    <string name="crypto_list_screen_header_title">COINS</string>
+    <string name="crypto_list_screen_error_message">There were some error while fetching the data: %s</string>
+
+    <string name="crypto_details_screen_price_key">Price</string>
+    <string name="crypto_details_screen_change_24h_key">Change (24hr)</string>
+    <string name="crypto_details_screen_market_cap_key">Market Cap</string>
+    <string name="crypto_details_screen_volume_24h_key">Volume (24hr)</string>
+    <string name="crypto_details_screen_supply_key">Supply</string>
+</resources>
