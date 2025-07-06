@@ -20,5 +20,5 @@ CryptoWatcher is an Android application that provides real-time updates and info
    ```
    ./gradlew build
    ```
-5. Run the app on an emulator or physical device
+5. Run the app on an emulator or physical device 
 
